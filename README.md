@@ -21,7 +21,7 @@
 
 ## 📸 Screenshots
 <p align="center">
-  <img src="./img/screen.png" alt="Captura de tela" width="600" height="auto">
+  <img src="./img/screen.png" alt="Captura de tela" width="700" height="auto">
 </p>
 
 <br />
@@ -48,7 +48,7 @@
 
 ## 🔗 Projeto On-line
 Este projeto está disponível para visualização on-line. <br />
-Você pode acessá-lo através do link: https://todo-list-advanced-henna.vercel.app/
+Você pode acessá-lo através do link: https://login-gerador-senhas.vercel.app/
 
 <br />
 
